@@ -94,16 +94,16 @@ URL_DO_CANAL
 
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",Viva
 URL_DO_CANAL
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",Multishow
-URL_DO_CANAL
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",GNT
-URL_DO_CANAL
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",Discovery Home & Health
-URL_DO_CANAL
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",Discovery Channel
-URL_DO_CANAL
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",The History Channel
-URL_DO_CANAL
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://embedcanaisonline.com/images/multishow.png",Multishow
+https://cdn1embed.site/f6suVAlmimltshwYI4xHG6r1kq608E9/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://embedcanaisonline.com/images/gnt.png",GNT
+https://cdn1embed.site/A1EEpDJjymgntUMGV4i3erXY2Av7YGr0as/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://embedcanaisonline.com/images/discoveryhh.png",Discovery Home & Health
+https://cdn1embed.site/MZHrZfUBfBdscvryClIsugfuQstCMTBkS/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://embedcanaisonline.com/images/discoverychannel.png",Discovery Channel
+https://cdn1embed.site/GH92hdagfdscvrySW51fAQ26cfWD3nbgfa/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://embedcanaisonline.com/images/history.png",History 
+https://cdn1embed.site/Pg1FNA88rcShstryxnCC8p2xgRxI/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",National Geographic
 URL_DO_CANAL
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",Animal Planet
@@ -113,10 +113,10 @@ URL_DO_CANAL
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="URL_DA_CAPA",Food Network
 URL_DO_CANAL
 
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="URL_DA_CAPA",Discovery Kids
-URL_DO_CANAL
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="URL_DA_CAPA",Cartoon Network
-URL_DO_CANAL
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://embedcanaisonline.com/images/discoverykids.png",Discovery Kids
+https://cdn1embed.site/DxRVRqLydscvryDO8xgRoEbN48Ju6NoPeO/index.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://embedcanaisonline.com/images/cartoonnetwork.png",Cartoon Network
+https://cdn1embed.site/C5Gj1Bf86ocrtnntyC4w7bAdzGxp/index.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="URL_DA_CAPA",Gloob
 URL_DO_CANAL
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="URL_DA_CAPA",Gloobinho
