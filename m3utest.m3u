@@ -740,12 +740,12 @@ https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/05/10965/a706jvxatke2_h/master.m3u
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/10801/k04d4o4ma0ww_h/master.m3u8?t=PWY8Y2okNMd-K0-XQBQhxwUU09gWWRi9an--LS3RE8g&s=1774394222&e=10800&f=54009388&srv=1075&asn=&sp=4000&p=0
 #EXTINF:-1 tvg-logo="https://streamberry.com.br/wp-content/uploads/2025/10/2b8tnSruPQnzEJSSsI0lEsY84KJ-200x300.jpg" group-title="FILMES_TERROR_2025", O Demônio do Alasca
 https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/07/09981/zmfvlyv5eu66_h/master.m3u8?t=AfmBxNJv9w9db9o_bzGzPpUi0e769M22rGqc0-jFXhY&s=1774394372&e=10800&f=49905480&srv=1060&asn=&sp=4000&p=0
-#EXTINF:-1 tvg-logo="capa_aui" group-title="FILMES_TERROR_2025", 
-
-#EXTINF:-1 tvg-logo="capa_aui" group-title="FILMES_TERROR_2025", 
-
-#EXTINF:-1 tvg-logo="capa_aui" group-title="FILMES_TERROR_2025", 
-
+#EXTINF:-1 tvg-logo="https://streamberry.com.br/wp-content/uploads/2025/09/fQv7neaPTFjBzvKkysAA6FXDIz7-200x300.jpg" group-title="FILMES_TERROR_2025", O Ritual
+https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/06/09927/zcs8h93wwf4d_h/master.m3u8?t=yqVgQskpctg3FshMvd7-7YA91rOYUGAaCYqnThILhR4&s=1774474187&e=10800&f=49635602&srv=1065&asn=&sp=4000&p=0
+#EXTINF:-1 tvg-logo="https://streamberry.com.br/wp-content/uploads/2025/04/vDpjYWzMTQg5lQ53hlck7NX9TJB-200x300.jpg" group-title="FILMES_TERROR_2025", Confinado
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/07/09333/lmjr6xlgn117_h/master.m3u8?t=BO3RSQhSiomixC5GG1_r-IXlPaf4Om5s0lFp8mYTnlY&s=1774474324&e=10800&f=46665739&srv=1060&asn=&sp=4000&p=0
+#EXTINF:-1 tvg-logo="https://streamberry.com.br/wp-content/uploads/2025/10/zGuDCinwsoeiyMVVKges85pR1ps-200x300.jpg" group-title="FILMES_TERROR_2025", A Garota Perdida
+https://be7713.rcr82.waw05.r66nv9ed.com/hls2/05/10056/k7xslavxkzjh_h/master.m3u8?t=b3zajDY7MC44Aq0CJAUfjTgSqp4gJfmHU42NJqYrE3A&s=1774474484&e=10800&f=50282467&srv=1065&asn=&sp=4000&p=0
 #EXTINF:-1 tvg-logo="capa_aui" group-title="FILMES_TERROR_2025", 
 
 #EXTINF:-1 tvg-logo="capa_aui" group-title="FILMES_TERROR_2025", 
@@ -763,6 +763,6 @@ filmes_2026
 
 #EXTINF:-1 tvg-logo="capa_aui" group-title="FILMES_TERROR_2026", 
 
-#EXTINF:-1 tvg-logo="https://ru.myanimeshelf.com/upload/dynamic/2010-11/06/VampireHunterD11.jpg" group-title="ANIMAÇÃO", Vampire Hunter D (2000) - Filme 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c30ZHSY/18e874e0df08.webp" group-title="ANIMAÇÃO", Vampire Hunter D (2000) - Filme 1
 https://lightspeedst.net/s3/mp4/vampire-hunter-d-dublado/sd/1.mp4
 
